@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FurnitureProduct
+comment0.text=\r\n\ This\ class\ extends\ the\ product\ class\r\n\r\n\ Jordan\ Goodman\r\n\ 11/29/17\r\n
+comment1.params=
+comment1.target=FurnitureProduct()
+comment2.params=price\ quantity\ name\ indoors\ discountRate
+comment2.target=FurnitureProduct(double,\ int,\ java.lang.String,\ boolean,\ double)
+comment3.params=
+comment3.target=double\ applyDiscount()
+comment4.params=Indoors
+comment4.target=void\ setIndoors(boolean)
+comment5.params=discountRate
+comment5.target=void\ setDiscountRate(double)
+comment6.params=
+comment6.target=boolean\ getIndoors()
+comment7.params=
+comment7.target=double\ getDiscountRate()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=tester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=products\ index\ x
+comment2.target=boolean\ sell(java.util.ArrayList,\ int,\ int)
+comment3.params=clothing\ furniture
+comment3.target=void\ restock(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=totalPrice\ products
+comment4.target=void\ transaction(double,\ java.util.ArrayList)
+comment5.params=products\ threshold\ length
+comment5.target=int\ findCheaper(java.util.ArrayList,\ double,\ int)
+comment6.params=furniture
+comment6.target=void\ furnitureList(java.util.ArrayList)
+comment7.params=clothing
+comment7.target=void\ clothingList(java.util.ArrayList)
+comment8.params=clothing\ furniture
+comment8.target=void\ saveFiles(java.util.ArrayList,\ java.util.ArrayList)
+numComments=9
